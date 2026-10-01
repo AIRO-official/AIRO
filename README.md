@@ -17,11 +17,30 @@
 퇴근 후 몰아 쓰는 일지, 월말마다 엑셀로 셈하는 급여, 감으로 설명하던 치료 경과 —
 AIRO는 이 기록을 데이터로 바꿔 치료사의 시간을 다시 아이에게 돌려줍니다.
 
+## 연혁
+
+**2026**
+- 2026.06 신용보증기금 START-UP NEST 19기
+- 2026.06 2026 예비창업패키지 선정
+- 2026.04 주식회사 아이로 법인 설립
+- 2026.03 치료사 업무 SaaS '아이로웍스' 오픈베타
+- 2026.01 서울시 캠퍼스타운 사업 선정
+
+**2025**
+- 2025.11 예비창업패키지 사전인큐베이팅 우수기업
+- 2025.10 피우다 프로젝트
+
 ## 서비스
 
-### 아이로웍스 (AIRO WORKS) · 서비스 중
+### 아이로웍스 (AIRO WORKS)
 
 <img src="assets/airoworks-logo.svg" alt="AIRO works" height="32">
+
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/kr/app/id6760640286)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.airo.airo_frontend)
+[![웹에서 시작하기](https://img.shields.io/badge/%EC%9B%B9%EC%97%90%EC%84%9C_%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-0094DD?style=for-the-badge&logo=googlechrome&logoColor=white)](https://airo-works.com)
+
+#### 치료사용 · 서비스 중
 
 치료사를 위한 올인원 업무 관리 앱 — iOS · Android · Web
 
@@ -49,44 +68,21 @@ AIRO는 이 기록을 데이터로 바꿔 치료사의 시간을 다시 아이�
 
 <sub>화면 속 이름과 기록은 모두 예시입니다.</sub>
 
-[App Store](https://apps.apple.com/kr/app/id6760640286) · [Google Play](https://play.google.com/store/apps/details?id=com.airo.airo_frontend) · [웹에서 바로 시작하기](https://airo-works.com)
-
-### 아이로웍스 센터 · 준비 중
+#### 기관용 · 준비 중
 
 발달센터 등 기관의 관리자가 소속 치료사의 일정·출결·일지 작성 현황·정산을 한곳에서 보는 웹 관리자 서비스입니다.
 아이로웍스와 같은 데이터 위에서 동작하며, 협력 기관과 시범 도입을 준비하고 있습니다.
 
-### 멜티 (Mellti) · 치료사 커뮤니티
+### 멜티 (Mellti) · 서비스 종료
 
-언어치료사·작업치료사·놀이치료사·특수교사 등 발달재활 치료사를 위한 활동지 공유, 보수교육 정보, 구인구직 커뮤니티입니다.
-[melonnetherapists.com](https://www.melonnetherapists.com)
-
-## 오픈 베타에서 들은 이야기
-
-| 업무 시간 단축 경험 | AI 활동 추천 유용성 | 종합 만족도 |
-|:---:|:---:|:---:|
-| **10명 중 9명** | **84.2%** | **4.25 / 5** |
-
-<sub>오픈 베타 테스트에 참여한 치료사 응답 기준</sub>
+언어치료사·작업치료사·놀이치료사·특수교사 등 발달재활 치료사를 위한 활동지 공유, 보수교육 정보, 구인구직 커뮤니티였습니다.
+지금은 서비스를 종료했습니다.
 
 ## 기록을 다루는 원칙
 
 - 모든 기록은 암호화되어 클라우드에 저장됩니다.
 - AI에 보내는 글에서는 아동 실명 등 민감 정보를 가립니다.
 - AI가 만든 문장은 초안입니다. 최종 내용은 언제나 치료사가 확인하고 저장합니다.
-
-## 연혁
-
-**2026**
-- 2026.06 신용보증기금 START-UP NEST 19기
-- 2026.06 2026 예비창업패키지 선정
-- 2026.04 주식회사 아이로 법인 설립
-- 2026.03 치료사 업무 SaaS '아이로웍스' 오픈베타
-- 2026.01 서울시 캠퍼스타운 사업 선정
-
-**2025**
-- 2025.11 예비창업패키지 사전인큐베이팅 우수기업
-- 2025.10 피우다 프로젝트
 
 ---
 
@@ -95,9 +91,10 @@ AIRO는 이 기록을 데이터로 바꿔 치료사의 시간을 다시 아이�
 **AIRO** builds software for developmental rehabilitation therapists — speech, occupational, cognitive, sensory integration, play therapy, and ABA — who work with children with developmental disabilities.
 We turn scattered clinical records into structured data so therapists spend less time on paperwork and more time with children.
 
-- **AIRO WORKS** (live — iOS, Android, Web): an all-in-one workspace for therapists. Session journals with photos and videos, voice-to-text drafting polished by AI, AI-recommended therapy activities, scheduling and attendance, DTT tracking, and payroll estimates.
-- **AIRO WORKS Center** (in preparation): a web console for therapy centers to see their therapists' schedules, attendance, journal status, and settlements in one place.
-- **Mellti** (멜티): a community for therapists to share activity materials, find continuing-education info, and browse job listings.
+- **AIRO WORKS**
+  - *For therapists* (live — iOS, Android, Web): an all-in-one workspace. Session journals with photos and videos, voice-to-text drafting polished by AI, AI-recommended therapy activities, scheduling and attendance, DTT tracking, and payroll estimates.
+  - *For centers* (in preparation): a web console for therapy centers to see their therapists' schedules, attendance, journal status, and settlements in one place.
+- **Mellti** (멜티, discontinued): a community where therapists shared activity materials, continuing-education info, and job listings.
 
 **Milestones**
 - 2026.06 KODIT START-UP NEST, 19th cohort · Selected for 2026 Pre-Startup Package
