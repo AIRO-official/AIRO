@@ -1,5 +1,7 @@
 <div align="center">
 
+**KR** | [EN](README.en.md)
+
 <img src="assets/airo-logo.png" alt="AIRO" width="200">
 
 **발달장애 임상 기록 데이터 전환 솔루션**
@@ -7,7 +9,10 @@
 치료사가 아이에게 더 집중할 수 있도록,<br>
 흩어진 치료 기록과 업무를 한곳에 모으고 AI로 덜어냅니다.
 
-[회사 웹사이트](https://www.airo-inc.com) · [아이로웍스 시작하기](https://airo-works.com) · [사용설명서](https://airoworks.notion.site/AIRO-Works-3b95751058ca81bd8a29c0ab4e4ea766) · [블로그](https://airo-inc.tistory.com)
+[![회사 웹사이트](https://img.shields.io/badge/%ED%9A%8C%EC%82%AC_%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-0086E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.airo-inc.com)
+[![아이로웍스 시작하기](https://img.shields.io/badge/%EC%95%84%EC%9D%B4%EB%A1%9C%EC%9B%8D%EC%8A%A4_%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-0094DD?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjM4IC0wLjA3KSI%2BPHBhdGggZD0iTTIyLjU5MTkgMy44Njc5OEMyMi41OTE5IDQuNTQ3NzEgMjMuMTQzIDUuMDk4NzUgMjMuODIyNyA1LjA5ODc1SDI1LjIyOTZDMjUuOTA5MyA1LjA5ODc1IDI2LjQ2MDMgNS42NDk3OCAyNi40NjAzIDYuMzI5NTFWOS42NzAyNkMyNi40NjAzIDEwLjM1IDI1LjkwOTMgMTAuOTAxIDI1LjIyOTYgMTAuOTAxSDIzLjgyMjdDMjMuMTQzIDEwLjkwMSAyMi41OTE5IDExLjQ1MjEgMjIuNTkxOSAxMi4xMzE4VjEzLjUzODZDMjIuNTkxOSAxNC4yMTg0IDIyLjA0MDkgMTQuNzY5NCAyMS4zNjEyIDE0Ljc2OTRIMTguMDIxQzE3LjM0MTMgMTQuNzY5NCAxNi43OTAzIDE0LjIxODQgMTYuNzkwMyAxMy41Mzg2VjEyLjEzMThDMTYuNzkwMyAxMS40NTIxIDE2LjIzOTIgMTAuOTAxIDE1LjU1OTUgMTAuOTAxSDE0LjE1MjZDMTMuNDcyOSAxMC45MDEgMTIuOTIxOSAxMC4zNSAxMi45MjE5IDkuNjcwMjZWNi4zMjk1MUMxMi45MjE5IDUuNjQ5NzggMTMuNDcyOSA1LjA5ODc1IDE0LjE1MjYgNS4wOTg3NUgxNS41NTk1QzE2LjIzOTIgNS4wOTg3NSAxNi43OTAzIDQuNTQ3NzEgMTYuNzkwMyAzLjg2Nzk4VjIuNDYxNzNDMTYuNzkwMyAxLjc4MTk5IDE3LjM0MTMgMS4yMzA5NiAxOC4wMjEgMS4yMzA5NkgyMS4zNjEyQzIyLjA0MDkgMS4yMzA5NiAyMi41OTE5IDEuNzgxOTkgMjIuNTkxOSAyLjQ2MTczVjMuODY3OThaIiBmaWxsPSJ3aGl0ZSIvPjxwYXRoIGQ9Ik0xNC4xNTIzIDE4LjE1MzhDMTQuMTUyMyAyMS4zODI2IDExLjUzNDkgMjQgOC4zMDYxOSAyNEM1LjA3NzQ1IDI0IDIuNDYwMDMgMjEuMzgyNiAyLjQ2MDAzIDE4LjE1MzhDMi40NjAwNCAxNC45MjUxIDUuMDc3NDUgMTIuMzA3NyA4LjMwNjE5IDEyLjMwNzdMMTEuNjkwOCAxMi4zMDc3QzEzLjA1MDMgMTIuMzA3NyAxNC4xNTIzIDEzLjQwOTggMTQuMTUyMyAxNC43NjkyTDE0LjE1MjMgMTguMTUzOFoiIGZpbGw9IndoaXRlIi8%2BPHBhdGggZD0iTTIwLjAxOTUgMTcuNjk5M0MyMC45NTggMTYuNzYwOCAyMi40Nzk1IDE2Ljc2MDggMjMuNDE4IDE3LjY5OTNMMjcuODUyIDIyLjEzMzNDMjguNzkwNSAyMy4wNzE4IDI4Ljc5MDUgMjQuNTkzNCAyNy44NTIgMjUuNTMxOUwyMy40MTggMjkuOTY1OUMyMi40Nzk1IDMwLjkwNDMgMjAuOTU4IDMwLjkwNDMgMjAuMDE5NSAyOS45NjU5TDE1LjU4NTUgMjUuNTMxOEMxNC42NDcgMjQuNTkzNCAxNC42NDcgMjMuMDcxOCAxNS41ODU1IDIyLjEzMzNMMjAuMDE5NSAxNy42OTkzWiIgZmlsbD0id2hpdGUiLz48L2c%2BPC9zdmc%2B)](https://airo-works.com)
+[![사용설명서](https://img.shields.io/badge/%EC%82%AC%EC%9A%A9%EC%84%A4%EB%AA%85%EC%84%9C-000000?style=for-the-badge&logo=notion&logoColor=white)](https://airoworks.notion.site/AIRO-Works-3b95751058ca81bd8a29c0ab4e4ea766)
+[![블로그](https://img.shields.io/badge/%EB%B8%94%EB%A1%9C%EA%B7%B8-EB531F?style=for-the-badge&logo=tistory&logoColor=white)](https://airo-inc.tistory.com)
 
 </div>
 
@@ -40,7 +45,7 @@ AIRO는 이 기록을 데이터로 바꿔 치료사의 시간을 다시 아이�
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.airo.airo_frontend)
 [![웹에서 시작하기](https://img.shields.io/badge/%EC%9B%B9%EC%97%90%EC%84%9C_%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-0094DD?style=for-the-badge&logo=googlechrome&logoColor=white)](https://airo-works.com)
 
-#### 치료사용 · 서비스 중
+#### 치료사용 ![서비스 중](https://img.shields.io/badge/%EC%84%9C%EB%B9%84%EC%8A%A4_%EC%A4%91-2EA44F)
 
 치료사를 위한 올인원 업무 관리 앱 — iOS · Android · Web
 
@@ -68,40 +73,14 @@ AIRO는 이 기록을 데이터로 바꿔 치료사의 시간을 다시 아이�
 
 <sub>화면 속 이름과 기록은 모두 예시입니다.</sub>
 
-#### 기관용 · 준비 중
+#### 기관용 ![준비 중](https://img.shields.io/badge/%EC%A4%80%EB%B9%84_%EC%A4%91-F0A500)
 
 발달센터 등 기관의 관리자가 소속 치료사의 일정·출결·일지 작성 현황·정산을 한곳에서 보는 웹 관리자 서비스입니다.
 아이로웍스와 같은 데이터 위에서 동작하며, 협력 기관과 시범 도입을 준비하고 있습니다.
 
-### 멜티 (Mellti) · 서비스 종료
+### 멜티 (Mellti) ![서비스 종료](https://img.shields.io/badge/%EC%84%9C%EB%B9%84%EC%8A%A4_%EC%A2%85%EB%A3%8C-8C959F)
 
 언어치료사·작업치료사·놀이치료사·특수교사 등 발달재활 치료사를 위한 활동지 공유, 보수교육 정보, 구인구직 커뮤니티였습니다.
 지금은 서비스를 종료했습니다.
-
-## 기록을 다루는 원칙
-
-- 모든 기록은 암호화되어 클라우드에 저장됩니다.
-- AI에 보내는 글에서는 아동 실명 등 민감 정보를 가립니다.
-- AI가 만든 문장은 초안입니다. 최종 내용은 언제나 치료사가 확인하고 저장합니다.
-
----
-
-## English
-
-**AIRO** builds software for developmental rehabilitation therapists — speech, occupational, cognitive, sensory integration, play therapy, and ABA — who work with children with developmental disabilities.
-We turn scattered clinical records into structured data so therapists spend less time on paperwork and more time with children.
-
-- **AIRO WORKS**
-  - *For therapists* (live — iOS, Android, Web): an all-in-one workspace. Session journals with photos and videos, voice-to-text drafting polished by AI, AI-recommended therapy activities, scheduling and attendance, DTT tracking, and payroll estimates.
-  - *For centers* (in preparation): a web console for therapy centers to see their therapists' schedules, attendance, journal status, and settlements in one place.
-- **Mellti** (멜티, discontinued): a community where therapists shared activity materials, continuing-education info, and job listings.
-
-**Milestones**
-- 2026.06 KODIT START-UP NEST, 19th cohort · Selected for 2026 Pre-Startup Package
-- 2026.04 AIRO Inc. incorporated
-- 2026.03 Open beta of AIRO works, a SaaS for therapists
-- 2026.01 Selected for Seoul Campus Town Program
-- 2025.11 Outstanding team, Pre-Startup Package incubating
-- 2025.10 PIUDA Project
 
 <div align="center"><sub>© AIRO Inc. · Seoul, Korea</sub></div>
