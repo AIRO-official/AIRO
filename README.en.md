@@ -45,7 +45,7 @@ AIRO turns these records into data and gives therapists their time back for the 
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.airo.airo_frontend)
 [![Start on the web](https://img.shields.io/badge/Start_on_the_web-0094DD?style=for-the-badge&logo=googlechrome&logoColor=white)](https://airo-works.com)
 
-#### For therapists ![Live](https://img.shields.io/badge/Live-2EA44F)
+#### For therapists <img src="https://img.shields.io/badge/Active-2EA44F" alt="Active" height="14">
 
 An all-in-one workspace app for therapists — iOS · Android · Web
 
@@ -73,12 +73,12 @@ An all-in-one workspace app for therapists — iOS · Android · Web
 
 <sub>All names and records in the screenshots are examples.</sub>
 
-#### For centers ![In preparation](https://img.shields.io/badge/In_preparation-F0A500)
+#### For centers <img src="https://img.shields.io/badge/Preparing-F0A500" alt="Preparing" height="14">
 
 A web console where administrators at developmental centers and similar institutions see their therapists' schedules, attendance, journal status, and settlements in one place.
 It runs on the same data as AIRO works, and we are preparing a pilot with partner centers.
 
-### Mellti ![Discontinued](https://img.shields.io/badge/Discontinued-8C959F)
+### Mellti <img src="https://img.shields.io/badge/Ended-8C959F" alt="Ended" height="14">
 
 A community where developmental rehabilitation therapists — speech, occupational, and play therapists, special education teachers, and more — shared activity materials, continuing-education info, and job listings.
 The service has ended.

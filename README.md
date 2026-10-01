@@ -45,7 +45,7 @@ AIRO는 이 기록을 데이터로 바꿔 치료사의 시간을 다시 아이�
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.airo.airo_frontend)
 [![웹에서 시작하기](https://img.shields.io/badge/%EC%9B%B9%EC%97%90%EC%84%9C_%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-0094DD?style=for-the-badge&logo=googlechrome&logoColor=white)](https://airo-works.com)
 
-#### 치료사용 ![서비스 중](https://img.shields.io/badge/%EC%84%9C%EB%B9%84%EC%8A%A4_%EC%A4%91-2EA44F)
+#### 치료사용 <img src="https://img.shields.io/badge/Active-2EA44F" alt="Active" height="14">
 
 치료사를 위한 올인원 업무 관리 앱 — iOS · Android · Web
 
@@ -73,12 +73,12 @@ AIRO는 이 기록을 데이터로 바꿔 치료사의 시간을 다시 아이�
 
 <sub>화면 속 이름과 기록은 모두 예시입니다.</sub>
 
-#### 기관용 ![준비 중](https://img.shields.io/badge/%EC%A4%80%EB%B9%84_%EC%A4%91-F0A500)
+#### 기관용 <img src="https://img.shields.io/badge/Preparing-F0A500" alt="Preparing" height="14">
 
 발달센터 등 기관의 관리자가 소속 치료사의 일정·출결·일지 작성 현황·정산을 한곳에서 보는 웹 관리자 서비스입니다.
 아이로웍스와 같은 데이터 위에서 동작하며, 협력 기관과 시범 도입을 준비하고 있습니다.
 
-### 멜티 (Mellti) ![서비스 종료](https://img.shields.io/badge/%EC%84%9C%EB%B9%84%EC%8A%A4_%EC%A2%85%EB%A3%8C-8C959F)
+### 멜티 (Mellti) <img src="https://img.shields.io/badge/Ended-8C959F" alt="Ended" height="14">
 
 언어치료사·작업치료사·놀이치료사·특수교사 등 발달재활 치료사를 위한 활동지 공유, 보수교육 정보, 구인구직 커뮤니티였습니다.
 지금은 서비스를 종료했습니다.
