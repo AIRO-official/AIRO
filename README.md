@@ -39,7 +39,7 @@ AIRO는 이 기록을 데이터로 바꿔 치료사의 시간을 다시 아이�
 발달센터 등 기관의 관리자가 소속 치료사의 일정·출결·일지 작성 현황·정산을 한곳에서 보는 웹 관리자 서비스입니다.
 아이로웍스와 같은 데이터 위에서 동작하며, 협력 기관과 시범 도입을 준비하고 있습니다.
 
-### Mellti · 치료사 커뮤니티
+### 멜티 (Mellti) · 치료사 커뮤니티
 
 언어치료사·작업치료사·놀이치료사·특수교사 등 발달재활 치료사를 위한 활동지 공유, 보수교육 정보, 구인구직 커뮤니티입니다.
 [melonnetherapists.com](https://www.melonnetherapists.com)
@@ -67,6 +67,6 @@ We turn scattered clinical records into structured data so therapists spend less
 
 - **AIRO WORKS** (live — iOS, Android, Web): an all-in-one workspace for therapists. Session journals with photos and videos, voice-to-text drafting polished by AI, AI-recommended therapy activities, scheduling and attendance, DTT tracking, and payroll estimates.
 - **AIRO WORKS Center** (in preparation): a web console for therapy centers to see their therapists' schedules, attendance, journal status, and settlements in one place.
-- **Mellti**: a community for therapists to share activity materials, find continuing-education info, and browse job listings.
+- **Mellti** (멜티): a community for therapists to share activity materials, find continuing-education info, and browse job listings.
 
 <div align="center"><sub>© AIRO Inc. · Seoul, Korea</sub></div>
