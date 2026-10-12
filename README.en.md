@@ -25,6 +25,12 @@ AIRO turns these records into data and gives therapists their time back for the 
 ## Milestones
 
 **2026**
+- 2026.10 Began preparing the AIRO works redesign
+- 2026.09 Service moved to airo-works.com
+- 2026.09 Began designing AIRO works for Centers, an admin product for developmental centers
+- 2026.09 Launched AIRO works PLUS and group plans
+- 2026.08 AIRO works 2.1 — AI journal completion, voice notes, attendance, and pay calculation
+- 2026.07 AIRO works 2.0 — new brand and design
 - 2026.06 KODIT START-UP NEST, 19th cohort
 - 2026.06 Selected for the 2026 Pre-Startup Package
 - 2026.04 AIRO Inc. incorporated
